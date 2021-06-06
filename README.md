@@ -169,4 +169,5 @@ app.post("/api",function(req,res){
 ```
 ## TESTCASES
 
-![Capture99](https://user-images.githubusercontent.com/61303893/120162390-f4acd000-c215-11eb-9e06-1838a065439a.PNG)
+![Capture234](https://user-images.githubusercontent.com/63230992/120931057-98621880-c70d-11eb-8a8f-614181911757.PNG)
+
